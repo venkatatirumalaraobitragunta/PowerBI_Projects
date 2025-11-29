@@ -1,12 +1,13 @@
-# ✅ **Project Title:** Adidas US Sales Analysis Dashboard using Power BI
+✅ **Project Title:** Adidas US Sales Analysis Dashboard using Power BI
 
-## 📌 **Project Overview**
+📌 **Project Overview**
 
 This project focuses on analyzing Adidas US sales data using Power BI. The main objective is to convert raw sales data into meaningful visual insights that help understand sales performance across different regions, products, retailers, and time periods. The project highlights how basic Power BI features—such as data import, cleaning, modeling, and visualization—can be used to support business decision-making.
 
----
+![Dashboard Screenshot](Screenshot%202025-11-26%20124344.png)
 
-## 🗂️ **1. Dataset Details**
+
+🗂️ **1. Dataset Details**
 
 The dataset contains sales-related information such as:
 
@@ -22,7 +23,7 @@ This data represents Adidas product sales across the United States.
 
 ---
 
-## 🧹 **2. Data Cleaning & Preparation (Power Query)**
+🧹 **2. Data Cleaning & Preparation (Power Query)**
 
 Before creating visuals, the dataset was prepared using Power Query:
 
@@ -34,9 +35,7 @@ Before creating visuals, the dataset was prepared using Power Query:
 
 ✅ No advanced calculations or DAX were used—only basic cleaning steps.
 
----
-
-## 🔗 **3. Data Modeling**
+🔗 **3. Data Modeling**
 
 Since this is a single-table basic project:
 
@@ -46,9 +45,7 @@ Since this is a single-table basic project:
 
 ✅ This makes the project beginner-friendly.
 
----
-
-## 📊 **4. Dashboard & Visualizations**
+📊 **4. Dashboard & Visualizations**
 
 A set of simple visuals were used to understand sales performance:
 
@@ -61,9 +58,7 @@ A set of simple visuals were used to understand sales performance:
 
 ✅ These visuals allow users to explore the data interactively.
 
----
-
-## 🎯 **5. Key Insights Identified**
+ 🎯 **5. Key Insights Identified**
 
 The dashboard helps answer important business questions like:
 
@@ -74,9 +69,7 @@ The dashboard helps answer important business questions like:
 
 These insights help understand patterns and performance differences across the US market.
 
----
-
-## 🚀 **6. Outcome of the Project**
+ 🚀 **6. Outcome of the Project**
 
 This project demonstrates:
 
@@ -87,9 +80,8 @@ This project demonstrates:
 
 It serves as a solid foundation for future advanced dashboards using DAX and relationships.
 
----
 
-## ✅ **Conclusion**
+✅ **Conclusion**
 
 The Adidas Sales Dashboard effectively turns raw data into a clear visual story. Even without advanced formulas, the project shows how Power BI can be used to identify trends, compare regions and products, and support data-driven understanding of business performance.
 
